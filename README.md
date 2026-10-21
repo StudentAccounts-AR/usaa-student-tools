@@ -8,6 +8,8 @@ This repository publishes the US Aviation Academy student planning tools through
 - [Initial Funding Planner](https://studentaccounts-ar.github.io/usaa-student-tools/initial-funding-planner/)
 - [AMT Funding Planner](https://studentaccounts-ar.github.io/usaa-student-tools/AMT-Funding-Planner/)
 - [AMT VA Funding Planner](https://studentaccounts-ar.github.io/usaa-student-tools/AMT-VA-Funding-Planner/)
+- [AMT VA Funding Planner](https://studentaccounts-ar.github.io/usaa-student-tools/AMT-ISM-Funding-Planner/)
+- [AMT VA Funding Planner](https://studentaccounts-ar.github.io/usaa-student-tools/AMT-ISM-VA-Funding-Planner/)
 
 The two AMT folder names contain capital letters. Website paths are case-sensitive, so copy those links exactly as shown.
 
